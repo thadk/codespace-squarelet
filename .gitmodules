@@ -1,0 +1,9 @@
+[submodule "squarelet"]
+	path = squarelet
+	url = git@github.com:MuckRock/squarelet.git
+[submodule "documentcloud"]
+	path = documentcloud
+	url = git@github.com:MuckRock/documentcloud.git
+[submodule "documentcloud-frontend"]
+	path = documentcloud-frontend
+	url = git@github.com:MuckRock/documentcloud-frontend.git
